@@ -1,6 +1,9 @@
-![MasterHead](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y292ZXIlMjBwaG90b3xlbnwwfHwwfHw%3D&w=1000&q=80)
+![MasterHead](https://www.nclouds.com/blog/wp-content/uploads/2019/10/banner-blog17o2019.jpg)
 <h1 align="center">Hi :wave:, I'm Aladejebi Gbenga</h1>
 <h3 align="center">A Data Analyst and Engineer</h3>
+
+# 💫 About Me:
+🗽 Simply Sammie.<br> 🌱 I’m currently working with , Postgresql, Power BI, Python.<br>👯 I’m open to collaboration with other Engineers.<br> 🥅 Goals: To solve problems through experiences gotten overtime.<br> ⚡ Fun fact: That sports guy:soccer::basketball::tennis: <br>  💬 Data is life..<br>
 
 
 ## 🌐 Socials:
