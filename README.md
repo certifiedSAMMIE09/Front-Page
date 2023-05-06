@@ -1,6 +1,6 @@
 ![MasterHead](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y292ZXIlMjBwaG90b3xlbnwwfHwwfHw%3D&w=1000&q=80)
 <h1 align="center">Hi :wave:, I'm Aladejebi Gbenga</h1>
-<h3 align="center">An enthusiastic data analyst and engineer</h3>
+<h3 align="center">A data analyst and engineer</h3>
 
 
 ## 🌐 Socials:
